@@ -1,0 +1,46 @@
+git은 폴더 단위로 관리
+
+pwd : print working directory
+ls -a : 숨긴파일 포함 list
+mkdir : make directory
+touch : 파일 만들기
+
+git init : 초기화(.git 폴더 생성, master)
+git status : 상태확인
+git add (target) : include(Staging Area에 올림)
+git commit -m "first commit" (Local Repo에 올림)
+
+git config --global : 전역변수 설정
+git config --local : 지역변수 설정
+
+git config --global user.email "cooluks2@gmail.com"
+git config --global user.name "cooluks2"
+
+git diff : 변화사항 확인
+
+git log : 기록 확인
+git log --oneline : 
+
+
+vi a.txt : 메모장(VIM) -> VIM adventures
+ i : 입력모드
+ Esc : 탈출
+ Shift + ;  →  wq : 저장 후 종료
+
+
+
+
+
+git	깃아
+remote	리모트저장소를
+add 	추가해줘
+origin 	별명은 origin이고
+https://github.com/chlwjddnr/git-test.git원래 주소는 이거야
+
+git push origin master 올려줘
+
+
+https://typora.io/#windows : 메모장 (h1과 비슷)
+
+[]()주소
+![]()이미지 주소
